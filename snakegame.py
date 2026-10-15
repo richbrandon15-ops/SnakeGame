@@ -1,7 +1,7 @@
 import random
 
 # Game settings
-FPS = 15
+FPS = 10
 WIDTH = 400
 HEIGHT = 400
 CELL = 20
